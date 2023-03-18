@@ -1,0 +1,32 @@
+header{
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 0,5px;
+    padding-bottom: 0,5px;
+    background-color: lightcyan;
+    position: sticky;
+    top: 0;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+nav ul li{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px 10px;
+    position: sticky;
+    top: 0;
+}
+
+.Titulo{
+    display: flex;
+    flex-direction: left;
+}
+
+.FotoPerfil{
+    width: 120px;
+    margin-left: 100px;
+}
